@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saiswari</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning Generative AI****
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **saiswaripatro2021@gmail.com**
 
