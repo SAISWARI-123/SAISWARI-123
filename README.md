@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiswari</h1>
 <h3 align="center">A passionate AI/ML Engineer from India</h3>
 
-- 🌱 I’m currently learning Generative AI****
+- 🌱 I’m currently learning **Generative AI**
 
 - 💬 Ask me about **Python**
 
